@@ -1,16 +1,13 @@
-## Hi there 👋
+# hello from Malaysia, i'm thenoodlesquad 👋
 
-<!--
-**thenoodlesquad/thenoodlesquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Malaysia.
 
-Here are some ideas to get you started:
+- happy to pair on open-source stuff
+- usually building small tools nobody asked for
+- reading docs more than books lately
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=thenoodlesquad&hide_border=true&theme=react" alt="Contribution graph" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenoodlesquad&layout=compact&langs_count=8&hide_border=true&theme=dracula" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Bash-f778ba?style=for-the-badge&logoColor=white" alt="Bash" /> <img src="https://img.shields.io/badge/Terraform-f778ba?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/GitHub%20Actions-f778ba?style=for-the-badge&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Linux-f778ba?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Kubernetes-f778ba?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Docker-f778ba?style=for-the-badge&logoColor=white" alt="Docker" />
